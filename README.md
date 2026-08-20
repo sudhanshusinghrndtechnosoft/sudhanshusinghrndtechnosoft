@@ -1,40 +1,16 @@
-# `sudhanshusinghrndtechnosoft`
-
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  sudhanshusinghrndtechnosoft                         FLUTTER DEVELOPER        │
-│                                                                              │
-│  ┌──────────────────────┐    OS          : Windows 11 / macOS               │
-│  │                      │    Role        : Flutter Developer                 │
-│  │    ASCII PORTRAIT    │    Stack       : Flutter, Dart, REST APIs          │
-│  │      SD / PHOTO      │    State Mgmt  : Provider, Riverpod                │
-│  │                      │    Database    : MySQL, SQLite, Firebase            │
-│  └──────────────────────┘    IDE         : VS Code, Android Studio           │
-│                                                                              │
-│                              Languages                                       │
-│                              Flutter / Dart / Java / Python / PHP             │
-│                                                                              │
-│                              GitHub                                          │
-│                              Building apps • APIs • UI • Backend integration  │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+# Sudhanshu Singh
 
 <p align="center">
-  <img src="./assets/sd-ascii.png" alt="SD ASCII portrait" width="560">
+  <img src="./assets/sd-profile-terminal.png" alt="Sudhanshu Singh - Developer Profile" width="100%">
 </p>
 
 ## `> whoami`
 
-**Sudhanshu Singh** — Flutter Developer focused on building clean, production-ready mobile applications, polished UI, REST API integrations and scalable app architecture.
+**Sudhanshu Singh** — Flutter Developer focused on production-ready mobile applications, polished UI, REST API integration and scalable architecture.
 
 ## `> tech_stack`
 
-| Mobile | Backend & Data | Tools |
-|---|---|---|
-| Flutter | REST APIs | Git |
-| Dart | MySQL | GitHub |
-| Android / iOS | SQLite | VS Code |
-| Provider / Riverpod | Firebase | Android Studio |
+`Flutter` `Dart` `Provider` `Riverpod` `REST APIs` `Firebase` `MySQL` `SQLite` `Git` `GitHub`
 
 ## `> current_focus`
 
@@ -47,18 +23,9 @@
 [+] Git / GitHub workflows
 ```
 
-## `> github_stats`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhanshusinghrndtechnosoft&show_icons=true&theme=github_dark&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshusinghrndtechnosoft&layout=compact&theme=github_dark&hide_border=true" height="165">
-</p>
-
 ## `> connect`
 
-<p align="center">
-  <a href="https://github.com/sudhanshusinghrndtechnosoft">GitHub</a>
-</p>
+[GitHub](https://github.com/sudhanshusinghrndtechnosoft)
 
 ---
 
